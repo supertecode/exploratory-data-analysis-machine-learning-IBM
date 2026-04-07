@@ -303,7 +303,7 @@ The project includes various visualization types:
 
 ## 👤 Author
 
-**[Your Name]**
+**Murilo Emanoel Sudario Rodrigues**
 
 - LinkedIn: [murilo-emanoel](https://www.linkedin.com/in/murilo-emanoel/)
 - Email: muriloemanoel.contato@gmail.com
