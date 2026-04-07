@@ -305,23 +305,8 @@ The project includes various visualization types:
 
 **[Your Name]**
 
-- LinkedIn: [your-linkedin](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- **Lichess.org** for making the dataset publicly available
-- **Chess community** for the rich domain knowledge
-- **Python data science community** for the amazing tools
+- LinkedIn: [murilo-emanoel](https://www.linkedin.com/in/murilo-emanoel/)
+- Email: muriloemanoel.contato@gmail.com
 
 ---
 
